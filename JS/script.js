@@ -1,7 +1,7 @@
 let btnAdd = document.querySelector('#btn-add');
 let btnSub = document.querySelector('#btn-sub');
 
-const counter = document.querySelector('#counter');
+let counter = document.querySelector('#counter');
 
 btnAdd.addEventListener('click', addNumber);
 btnSub.addEventListener('click', subNumber);
