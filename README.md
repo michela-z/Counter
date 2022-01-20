@@ -1,10 +1,10 @@
 # Counter
 
 ## Contenuti
-* [Descrizione](descrizione)
-* [Linguaggi utilizzati](linguaggi-utilizzati)
-* [Link all'app](link-al-progetto)
-* [Contatti](contatti)
+* Descrizione
+* Linguaggi utilizzati
+* Link al progetto
+* Contatti
 
 
 ## Descrizione
@@ -20,9 +20,10 @@ L'app è provvista di un ulteriore pulstante 'reset' che azzera il counter.
 
 
 ## LINK al progetto
- GitHub: [https://github.com/michela-z/Counter](https://github.com/michela-z/Counter)
+ GitHub: [https://github.com/michela-z/Counter](https://github.com/michela-z/Counter) 
+   ~   Netlify: [https://counterbymichelaz.netlify.app/](https://counterbymichelaz.netlify.app/)
  
  
 ## Contatti
 
-Michela Zallocco - [Instagram](https://www.instagram.com/michelazallocco/) - [Linkedin](https://www.linkedin.com/in/michela-zallocco-a30b531a1/) - michelazallocco94@gmail.com
+Michela Zallocco ~ [Instagram](https://www.instagram.com/michelazallocco/) ~ [Linkedin](https://www.linkedin.com/in/michela-zallocco-a30b531a1/) ~ michelazallocco94@gmail.com
