@@ -20,8 +20,8 @@ L'app è provvista di un ulteriore pulstante 'reset' che azzera il counter.
 
 
 ## LINK al progetto
- GitHub: [https://github.com/michela-z/Counter](https://github.com/michela-z/Counter) 
-   ~   Netlify: [https://counterbymichelaz.netlify.app/](https://counterbymichelaz.netlify.app/)
+ Prova il progetto qui: [https://counterbymichelaz.netlify.app/](https://counterbymichelaz.netlify.app/)
+   ~   GitHub Repository: [https://github.com/michela-z/Counter](https://github.com/michela-z/Counter) 
  
  
 ## Contatti
