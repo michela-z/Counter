@@ -60,36 +60,29 @@ h1 {
 }
 
 .text {
-    display: flex;
-    justify-content: space-evenly;
+    font-size: 0.5em;
+    font-weight: lighter;
     color: rgb(30, 101, 163);
-    font-size: 0.8em;
-    padding-top: 10px;
-    width: 400px;
-    text-align: center;
+    margin: 20px 0 0 -15px;
+    width: 80px;
 }
 
 .counter {
     border: rgb(212, 231, 248) solid 2px;
     background: white;
     border-radius: 50px;
-    width: 200px;
-    height: 200px;
-    text-align: center;
-    margin: 50px;
-}
+    width: 180px;
+    height: 180px;
+    margin: 40px;
 
-.counter span {
     color: rgb(30, 101, 163);
     font-size: 4.5em;
-    height: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100%;
 }
 
-#reset {
+.reset {
     border: rgb(212, 231, 248) solid 2px;
     color: white;
     font-size: 1.2em;
@@ -98,9 +91,10 @@ h1 {
     padding: 8px 20px 10px 20px;
     border-radius: 50px;
     cursor: pointer;
+    margin-top: -40px;
 }
 
-#reset:hover {
+.reset:hover {
     background-color: white;
     color: rgb(30, 101, 163);
 }
