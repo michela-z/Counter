@@ -44,7 +44,7 @@ counter.innerHTML = '0'
 counter.className = 'counter';
 container.prepend(reset, counter);
 
-// aggiungere funizionalità a tutti gli elementi
+// aggiungere funzionalità a tutti gli elementi
 btnAdd.addEventListener('click', addNumber);
 btnSub.addEventListener('click', subNumber);
 
